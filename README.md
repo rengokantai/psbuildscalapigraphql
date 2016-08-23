@@ -85,3 +85,10 @@ values
   "user2":"rengokantai"
 }
 ```
+######16 clone
+```
+git clone https://github.com/reactjscamp/name-contests.git
+```
+```
+git checkout m3-02
+```
